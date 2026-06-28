@@ -213,11 +213,11 @@ Customer-Churn-Prediction/
 
 
 
-##### &#x20;**Author**
+##### **Author**
 
 
 
-###### Nitheeshwaran V
+##### Nitheeshwaran V
 
 
 
