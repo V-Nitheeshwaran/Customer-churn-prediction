@@ -34,15 +34,15 @@ Customer churn directly impacts business revenue and customer acquisition costs.
 
 
 
-\* Explore customer behavior through data analysis.
+\ Explore customer behavior through data analysis.
 
-\* Clean and preprocess real-world customer data.
+\ Clean and preprocess real-world customer data.
 
-\* Identify patterns associated with customer churn.
+\ Identify patterns associated with customer churn.
 
-\* Develop and evaluate machine learning classification models.
+\ Develop and evaluate machine learning classification models.
 
-\* Translate analytical findings into actionable business recommendations.
+\ Translate analytical findings into actionable business recommendations.
 
 
 
